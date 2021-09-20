@@ -1,2 +1,2 @@
 # Aracity Dash
-### Can you survive on the strees of Aracity, the biggest city of Agreste?
+### Can you survive on the streets of Aracity, the biggest city of Agreste?
